@@ -177,6 +177,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Aboleila-Engineer/Aboleila-Engineer/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 <!-- ======================= FOOTER ======================= -->
 
 <div align="center">
