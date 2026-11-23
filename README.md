@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Saad Fakry
 
-### Computer Science Student | Aspiring Backend Developer
+### Computer Science Student | Java & Spring Boot | REST APIs, SQL & Web Development
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%26+REST+APIs;SQL+%26+Database+Design;Data+Analysis+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at **Badr University in Assiut**.
-- 💻 Aspiring **Backend Developer** specializing in Java and Spring Boot.
+- 💻 **Backend Developer** specializing in Java and Spring Boot.
 - 🌱 Currently learning Backend Development and building practical projects.
 - 🗄️ Interested in databases, software architecture, and RESTful APIs.
 - 📊 Exploring Data Analysis and Machine Learning.
